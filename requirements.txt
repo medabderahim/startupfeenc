@@ -2,9 +2,7 @@ Flask
 flask-cors
 psutil
 jsonify
-
-
-
+gunicorn
 psutil
 flask_cors
 CORS
