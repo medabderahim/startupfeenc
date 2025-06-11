@@ -2,9 +2,9 @@ Flask
 flask-cors
 psutil
 jsonify
-socket
-platform
-uuid
+
+
+
 psutil
 flask_cors
 CORS
